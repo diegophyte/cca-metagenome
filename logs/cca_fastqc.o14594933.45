@@ -1,0 +1,8 @@
+[Sat Aug 29 21:50:40 PDT 2026] task 45  dorado / unclassified
+  input: /u/scratch/d/dlera/annabelle_metagenome/basecalled-reads/fastq/unclassified.fastq.gz
+null
+Started analysis of stdin:dorado_unclassified
+Analysis complete for stdin:dorado_unclassified
+[Sat Aug 29 21:51:55 PDT 2026] done
+-rw-r--r--. 1 dlera momedina 643163 Aug 29 21:51 dorado_unclassified_fastqc.html
+-rw-r--r--. 1 dlera momedina 374856 Aug 29 21:51 dorado_unclassified_fastqc.zip

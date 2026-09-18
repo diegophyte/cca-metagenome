@@ -1,0 +1,22 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content
+minknow_barcode01	1	1	1	0.25	0.25	1	0.5	1	0.5	1
+minknow_barcode02	1	1	1	0.5	0.5	1	0.5	1	1	1
+minknow_barcode03	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode04	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode05	1	1	1	0.5	0.25	1	0.5	1	1	1
+minknow_barcode06	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode07	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode08	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode09	1	1	1	0.5	0.25	1	0.5	1	1	1
+minknow_barcode10	1	1	1	0.25	1	1	0.5	1	1	1
+minknow_barcode11	1	1	1	0.5	0.5	1	0.5	1	1	1
+minknow_barcode12	1	1	1	0.25	0.25	1	0.5	0.5	0.25	1
+minknow_barcode13	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode14	1	1	1	0.5	0.25	1	0.5	1	0.5	1
+minknow_barcode15	1	1	1	0.25	0.25	1	0.5	1	1	1
+minknow_barcode16	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode17	1	1	1	0.5	0.5	1	0.5	1	1	1
+minknow_barcode18	1	1	1	0.5	0.5	1	0.5	1	1	1
+minknow_barcode19	1	1	1	0.25	0.25	1	0.5	1	0.25	1
+minknow_barcode20	1	1	1	0.25	0.5	1	0.5	1	1	1
+minknow_unclassified	1	0.25	1	0.25	0.25	1	0.5	0.5	0.5	1

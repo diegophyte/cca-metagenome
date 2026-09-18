@@ -1,0 +1,9 @@
+[Sat Aug 29 21:48:31 PDT 2026] task 17  minknow / barcode17
+  input: /u/scratch/d/dlera/annabelle_metagenome/Metagenome/Metagenome_AC/AC_Meta/20260521_1020_MN49060_FBG11764_98045ec5/fastq_pass/barcode17
+  merging 73 chunk files
+null
+Started analysis of stdin:minknow_barcode17
+Analysis complete for stdin:minknow_barcode17
+[Sat Aug 29 21:49:41 PDT 2026] done
+-rw-r--r--. 1 dlera momedina 615069 Aug 29 21:49 minknow_barcode17_fastqc.html
+-rw-r--r--. 1 dlera momedina 369005 Aug 29 21:49 minknow_barcode17_fastqc.zip

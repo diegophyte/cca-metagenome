@@ -1,0 +1,8 @@
+[Sat Aug 29 21:49:37 PDT 2026] task 26  dorado / barcode05
+  input: /u/scratch/d/dlera/annabelle_metagenome/basecalled-reads/fastq/barcode05.fastq.gz
+null
+Started analysis of stdin:dorado_barcode05
+Analysis complete for stdin:dorado_barcode05
+[Sat Aug 29 21:50:36 PDT 2026] done
+-rw-r--r--. 1 dlera momedina 657653 Aug 29 21:50 dorado_barcode05_fastqc.html
+-rw-r--r--. 1 dlera momedina 361656 Aug 29 21:50 dorado_barcode05_fastqc.zip

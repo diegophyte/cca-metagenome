@@ -1,0 +1,9 @@
+[Sat Aug 29 21:49:37 PDT 2026] task 21  minknow / unclassified
+  input: /u/scratch/d/dlera/annabelle_metagenome/Metagenome/Metagenome_AC/AC_Meta/20260521_1020_MN49060_FBG11764_98045ec5/fastq_pass/unclassified
+  merging 73 chunk files
+null
+Started analysis of stdin:minknow_unclassified
+Analysis complete for stdin:minknow_unclassified
+[Sat Aug 29 21:54:22 PDT 2026] done
+-rw-r--r--. 1 dlera momedina 666048 Aug 29 21:54 minknow_unclassified_fastqc.html
+-rw-r--r--. 1 dlera momedina 420974 Aug 29 21:54 minknow_unclassified_fastqc.zip

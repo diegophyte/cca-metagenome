@@ -1,0 +1,25 @@
+Sample	Top overrepresented sequence	Sum of remaining overrepresented sequences
+dorado_barcode01	0.12976901116013498	0.0
+dorado_barcode02	0.0	0.0
+dorado_barcode03	0.15772870662460567	99.84227129337539
+dorado_barcode04	0.23885350318471338	0.23885350318471338
+dorado_barcode05	0.0	0.0
+dorado_barcode06	0.12345679012345678	99.87654320987654
+dorado_barcode07	0.12531328320802004	99.87468671679198
+dorado_barcode08	0.0	0.0
+dorado_barcode09	0.0	0.0
+dorado_barcode10	0.0	0.0
+dorado_barcode11	0.0	0.0
+dorado_barcode12	5.94925634295713	4.199475065616798
+dorado_barcode13	0.12376237623762376	99.87623762376238
+dorado_barcode14	0.10622477161674101	0.0
+dorado_barcode15	0.0	0.0
+dorado_barcode16	0.16420361247947454	99.83579638752053
+dorado_barcode17	0.0	0.0
+dorado_barcode18	0.0	0.0
+dorado_barcode19	1.301775147928994	98.69822485207101
+dorado_barcode20	0.0	0.0
+dorado_barcode21	100.0	0.0
+dorado_barcode23	100.0	0.0
+dorado_barcode24	100.0	0.0
+dorado_unclassified	2.451789470878197	9.792052176887825

@@ -1,0 +1,13 @@
+[Sat Aug 29 21:57:25 PDT 2026] multiqc -> multiqc_minknow.html
+
+/// MultiQC v1.35
+
+     update_config | Report title: AC_Meta -- MinKNOW basecall (fastq_pass)
+       file_search | Search path: /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/fastqc/minknow
+            fastqc | Found 21 reports
+memory allocation of 1520 bytes failed
+memory allocation of 1520 bytes failed
+skipping backtrace printing to avoid potential recursion
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+memory allocation of 1520 bytes failed
+skipping backtrace printing to avoid potential recursion

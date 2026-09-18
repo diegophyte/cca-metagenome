@@ -1,0 +1,25 @@
+Sample	Unique Reads	Duplicate Reads
+dorado_barcode01	3850.0	3.0
+dorado_barcode02	112708.0	273.0
+dorado_barcode03	634.0	0.0
+dorado_barcode04	1252.0	4.0
+dorado_barcode05	544079.0	728.0
+dorado_barcode06	810.0	0.0
+dorado_barcode07	798.0	0.0
+dorado_barcode08	1023.0	0.0
+dorado_barcode09	36764.0	18.0
+dorado_barcode10	159884.0	130.0
+dorado_barcode11	113512.0	55.0
+dorado_barcode12	1038.0	105.0
+dorado_barcode13	808.0	0.0
+dorado_barcode14	4700.0	7.0
+dorado_barcode15	31476.0	7.0
+dorado_barcode16	609.0	0.0
+dorado_barcode17	1888322.0	16792.0
+dorado_barcode18	1081794.0	18681.0
+dorado_barcode19	824.0	21.0
+dorado_barcode20	1421226.0	129498.0
+dorado_barcode21	1.0	0.0
+dorado_barcode23	1.0	0.0
+dorado_barcode24	1.0	0.0
+dorado_unclassified	384443.0	65718.0

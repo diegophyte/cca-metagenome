@@ -1,0 +1,35 @@
+[Sat Aug 29 22:01:05 PDT 2026] multiqc -> multiqc_minknow.html
+
+/// MultiQC v1.35
+
+     update_config | Report title: AC_Meta -- MinKNOW basecall (fastq_pass)
+       file_search | Search path: /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/fastqc/minknow
+            fastqc | Found 21 reports
+     write_results | Data        : results/read-qc/multiqc/multiqc_minknow_data
+     write_results | Report      : results/read-qc/multiqc/multiqc_minknow.html
+           multiqc | MultiQC complete
+[Sat Aug 29 22:01:11 PDT 2026] multiqc -> multiqc_dorado.html
+
+/// MultiQC v1.35
+
+     update_config | Report title: AC_Meta -- dorado sup re-basecall
+       file_search | Search path: /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/fastqc/dorado
+            fastqc | Found 24 reports
+     write_results | Data        : results/read-qc/multiqc/multiqc_dorado_data
+     write_results | Report      : results/read-qc/multiqc/multiqc_dorado.html
+           multiqc | MultiQC complete
+[Sat Aug 29 22:01:16 PDT 2026] multiqc -> multiqc_compare.html
+
+/// MultiQC v1.35
+
+     update_config | Report title: AC_Meta -- MinKNOW vs dorado sup
+       file_search | Search path: /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/fastqc/minknow
+       file_search | Search path: /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/fastqc/dorado
+            fastqc | Found 45 reports
+     write_results | Data        : results/read-qc/multiqc/multiqc_compare_data
+     write_results | Report      : results/read-qc/multiqc/multiqc_compare.html
+           multiqc | MultiQC complete
+[Sat Aug 29 22:01:21 PDT 2026] done
+-rw-r--r--. 1 dlera momedina 3121125 Aug 29 22:01 /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/multiqc/multiqc_compare.html
+-rw-r--r--. 1 dlera momedina 2763685 Aug 29 22:01 /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/multiqc/multiqc_dorado.html
+-rw-r--r--. 1 dlera momedina 2690846 Aug 29 22:01 /u/scratch/d/dlera/annabelle_metagenome/cca-metagenome/results/read-qc/multiqc/multiqc_minknow.html
